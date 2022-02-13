@@ -7,5 +7,6 @@ Task:
 * Add dependency "github.com/kyokomi/emoji" to add emojy into the string
 * Using Sprint function from this package build a message "Hello 🗺️!"
 
+
 To run tests for run cmd "go test -v ."
 Tasks considered as completed in case test is not failed
